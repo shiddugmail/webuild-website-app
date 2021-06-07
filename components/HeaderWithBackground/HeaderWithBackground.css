@@ -1,0 +1,122 @@
+.frame-27 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 644px;
+  mix-blend-mode: normal;
+}
+.frame-34 {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  margin-left: 282px;
+  min-width: 820px;
+  position: relative;
+}
+.frame-35 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  min-width: 1280px;
+  position: relative;
+}
+.group-87 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 51px;
+}
+.header-with-background {
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: 0px 2px 5px #00153429;
+  display: flex;
+  height: 72px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  padding: 0 80px;
+}
+.overlap-group {
+  height: 21px;
+  position: relative;
+  width: 49px;
+}
+.place {
+  color: var(--black);
+  font-family: var(--font-family-overpass);
+  font-weight: 700;
+  height: 21px;
+  left: 4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.rectangle-61 {
+  background-color: var(--red);
+  height: 8px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 49px;
+}
+.text-1 {
+  color: var(--black);
+  font-family: var(--font-family-overpass);
+  height: 21px;
+  margin-left: 22px;
+  min-height: 21px;
+  min-width: 70px;
+  mix-blend-mode: normal;
+}
+.text-2 {
+  color: var(--black);
+  font-family: var(--font-family-overpass);
+  height: 21px;
+  margin-left: 22px;
+  min-height: 21px;
+  min-width: 72px;
+  mix-blend-mode: normal;
+}
+.text-3 {
+  color: var(--black);
+  font-family: var(--font-family-overpass);
+  height: 21px;
+  margin-left: 22px;
+  min-height: 21px;
+  min-width: 63px;
+  mix-blend-mode: normal;
+}
+.text-4 {
+  color: var(--black);
+  font-family: var(--font-family-overpass);
+  height: 21px;
+  margin-left: 22px;
+  min-height: 21px;
+  min-width: 65px;
+  mix-blend-mode: normal;
+}
+.text-5 {
+  color: var(--black);
+  font-family: var(--font-family-overpass);
+  height: 21px;
+  margin-left: 22px;
+  min-height: 21px;
+  min-width: 47px;
+  mix-blend-mode: normal;
+}
+.text-6 {
+  color: var(--black);
+  font-family: var(--font-family-overpass);
+  height: 21px;
+  margin-left: 22px;
+  min-height: 21px;
+  min-width: 39px;
+  mix-blend-mode: normal;
+}
+.text-7 {
+  color: var(--black);
+  font-family: var(--font-family-overpass);
+  height: 21px;
+  margin-left: 22px;
+  min-height: 21px;
+  mix-blend-mode: normal;
+}

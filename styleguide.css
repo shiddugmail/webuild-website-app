@@ -1,0 +1,13 @@
+:root {
+  --black: #272727;
+  --red: #cd424a;
+  --white: #ffffff;
+
+  --font-size-m: 14px;
+
+  --font-family-overpass: "Overpass", Helvetica;
+}
+.typographybodycaption-14-semi-bold {
+  font-size: var(--font-size-m);
+  letter-spacing: 0;
+}
